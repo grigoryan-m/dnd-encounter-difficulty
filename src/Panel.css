@@ -1,0 +1,15 @@
+.Wrapper{
+    width: 100vw;
+    height: 100vh;
+    background-color: lightblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Panel{
+    max-width: 450px;
+    width: 90vw;
+    height: 500px;
+    background-color: white;
+    border-radius: 20px;
+}
